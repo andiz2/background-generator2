@@ -1,2 +1,0 @@
-Ticker: UMEE Token type: ERC20 ICO Token Price: 1 UMEE = 0.07 USDFundraising Goal: 500,000,000 TOKEN
-
